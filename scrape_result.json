@@ -1,0 +1,2237 @@
+{
+  "provider": "TextRazor",
+  "prompt": "Create a summary of the webpage with the names of all service providers for all service categories divided by category",
+  "title": " FundMyCap  #1 Fundraising Platform for Crowdfunding",
+  "schema_data": {
+    "Campaigns name": []
+  },
+  "length": 418510,
+  "preview": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n FundMyCap  #1 Fundraising Platform for Crowdfunding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n ×\n\n\nSearch\n\n\n\n\n\n\nCreate Campaign\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow it works\n\n\nFAQ\n\n\n\r\n\t\t\t\t\t\t\tExplore\r\n\t\t\t\t\t\t\n\nLatest\nPromoted\nFeatured\nPopular\nEnded\nEnding Soon\nMaximum Fundraising\nNo Fundraising\nGallery\n\n\n\n\r\n\t\t\t\t\t\t\tCategories\r\n\t\t\t\t\t\t\n\n\r\n\t\t\t\t\t\t\t\tAnimals\r\n\t\t\t\t\t\t\t\n\r\n\t\t\t\t\t\t\t\tBusiness\r\n\t\t\t\t\t\t\t\n\r\n\t\t\t\t\t\t\t\tCharity\r\n\t\t\t\t\t\t\t\n\r\n\t\t\t\t\t\t\t\tCommunity\r\n\t\t\t\t\t\t\t\n\r\n\t\t\t\t\t\t\t\tCompetitions\r\n\t\t\t\t\t\t\t\n\r\n\t\t\t\t\t\t\t\tCreative\r\n\t\t\t\t\t\t\t\nView all \n\n\n\n\r\n\t\t\t\t\t\t\tRegions\r\n\t\t\t\t\t\t\n\n\r\n\t\t\t\t\t\t\t\tAfrica\r\n\t\t\t\t\t\t\t\n\r\n\t\t\t\t\t\t\t\tAsia\r\n\t\t\t\t\t\t\t\n\r\n\t\t\t\t\t\t\t\tEurope\r\n\t\t\t\t\t\t\t\n\r\n\t\t\t\t\t\t\t\tNorth America\r\n\t\t\t\t\t\t\t\n\r\n\t\t\t\t\t\t\t\tOceania\r\n\t\t\t\t\t\t\t\n\r\n\t\t\t\t\t\t\t\tSouth America\r\n\t\t\t\t\t\t\t\n\n\n\n\n\n\n\n\nLogin\n\n\nCreate Campaign\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n\t\t\t\tTake your donor experience to the next level!\r\n\t\t\t\n\r\n\t\t\t\tJoin the 50,000+ nonprofits already raising funds online.\r\n\t\t\t\n\r\n\t\t\t\tSign up for free\r\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLittle help, for big cause!\nTogether we can achieve e",
+  "api_result": {
+    "response": {
+      "coarseTopics": [
+        {
+          "id": 0,
+          "label": "Business",
+          "wikiLink": "http://en.wikipedia.org/Category:Business",
+          "score": 1
+        },
+        {
+          "id": 1,
+          "label": "Politics",
+          "wikiLink": "http://en.wikipedia.org/Category:Politics",
+          "score": 0.9965
+        },
+        {
+          "id": 2,
+          "label": "Culture",
+          "wikiLink": "http://en.wikipedia.org/Category:Culture",
+          "score": 0.5975
+        },
+        {
+          "id": 3,
+          "label": "Technology",
+          "wikiLink": "http://en.wikipedia.org/Category:Technology",
+          "score": 0.2901
+        },
+        {
+          "id": 4,
+          "label": "Law",
+          "wikiLink": "http://en.wikipedia.org/Category:Law",
+          "score": 0.2056
+        }
+      ],
+      "language": "eng",
+      "languageIsReliable": true,
+      "topics": [
+        {
+          "id": 0,
+          "label": "Fundraising",
+          "wikiLink": "http://en.wikipedia.org/Fundraising",
+          "score": 1,
+          "wikidataId": "Q1161355"
+        },
+        {
+          "id": 1,
+          "label": "Public sphere",
+          "wikiLink": "http://en.wikipedia.org/Category:Public_sphere",
+          "score": 1,
+          "wikidataId": "Q9205879"
+        },
+        {
+          "id": 2,
+          "label": "Organizational theory",
+          "wikiLink": "http://en.wikipedia.org/Category:Organizational_theory",
+          "score": 1,
+          "wikidataId": "Q7210439"
+        },
+        {
+          "id": 3,
+          "label": "Advocacy",
+          "wikiLink": "http://en.wikipedia.org/Category:Advocacy",
+          "score": 1,
+          "wikidataId": "Q121788371"
+        },
+        {
+          "id": 4,
+          "label": "Economy",
+          "wikiLink": "http://en.wikipedia.org/Category:Economy",
+          "score": 1,
+          "wikidataId": "Q9715089"
+        },
+        {
+          "id": 5,
+          "label": "Activism",
+          "wikiLink": "http://en.wikipedia.org/Category:Activism",
+          "score": 1,
+          "wikidataId": "Q7014667"
+        },
+        {
+          "id": 6,
+          "label": "Social and solidarity economy",
+          "wikiLink": "http://en.wikipedia.org/Category:Social_and_solidarity_economy",
+          "score": 1,
+          "wikidataId": "Q111154213"
+        },
+        {
+          "id": 7,
+          "label": "Altruism",
+          "wikiLink": "http://en.wikipedia.org/Category:Altruism",
+          "score": 1,
+          "wikidataId": "Q8236608"
+        },
+        {
+          "id": 8,
+          "label": "Philanthropy",
+          "wikiLink": "http://en.wikipedia.org/Category:Philanthropy",
+          "score": 1,
+          "wikidataId": "Q5912499"
+        },
+        {
+          "id": 9,
+          "label": "Social economy",
+          "wikiLink": "http://en.wikipedia.org/Category:Social_economy",
+          "score": 1,
+          "wikidataId": "Q7214799"
+        },
+        {
+          "id": 10,
+          "label": "Virtue",
+          "wikiLink": "http://en.wikipedia.org/Category:Virtue",
+          "score": 0.984,
+          "wikidataId": "Q7232922"
+        },
+        {
+          "id": 11,
+          "label": "Non-profit organizations",
+          "wikiLink": "http://en.wikipedia.org/Category:Non-profit_organizations",
+          "score": 0.8684,
+          "wikidataId": "Q6178741"
+        },
+        {
+          "id": 12,
+          "label": "Profit",
+          "wikiLink": "http://en.wikipedia.org/Category:Profit",
+          "score": 0.7792,
+          "wikidataId": "Q8795292"
+        },
+        {
+          "id": 13,
+          "label": "Charity",
+          "wikiLink": "http://en.wikipedia.org/Category:Charity",
+          "score": 0.752,
+          "wikidataId": "Q6196492"
+        },
+        {
+          "id": 14,
+          "label": "Assistance",
+          "wikiLink": "http://en.wikipedia.org/Category:Assistance",
+          "score": 0.7173,
+          "wikidataId": "Q116748619"
+        },
+        {
+          "id": 15,
+          "label": "Crowdfunding",
+          "wikiLink": "http://en.wikipedia.org/Crowdfunding",
+          "score": 0.6957,
+          "wikidataId": "Q348303"
+        },
+        {
+          "id": 16,
+          "label": "Public finance",
+          "wikiLink": "http://en.wikipedia.org/Category:Public_finance",
+          "score": 0.5963,
+          "wikidataId": "Q6158514"
+        },
+        {
+          "id": 17,
+          "label": "Collaborative finance",
+          "wikiLink": "http://en.wikipedia.org/Category:Collaborative_finance",
+          "score": 0.5828,
+          "wikidataId": "Q25304640"
+        },
+        {
+          "id": 18,
+          "label": "Capital management",
+          "wikiLink": "http://en.wikipedia.org/Category:Capital_management",
+          "score": 0.5437,
+          "wikidataId": "Q120784437"
+        },
+        {
+          "id": 19,
+          "label": "Cooperative economics",
+          "wikiLink": "http://en.wikipedia.org/Category:Cooperative_economics",
+          "score": 0.5311,
+          "wikidataId": "Q25304475"
+        },
+        {
+          "id": 20,
+          "label": "Finance",
+          "wikiLink": "http://en.wikipedia.org/Category:Finance",
+          "score": 0.53,
+          "wikidataId": "Q7014671"
+        },
+        {
+          "id": 21,
+          "label": "Venture capital",
+          "wikiLink": "http://en.wikipedia.org/Category:Venture_capital",
+          "score": 0.5135,
+          "wikidataId": "Q8225802"
+        },
+        {
+          "id": 22,
+          "label": "Social finance",
+          "wikiLink": "http://en.wikipedia.org/Category:Social_finance",
+          "score": 0.5112,
+          "wikidataId": "Q8757166"
+        },
+        {
+          "id": 23,
+          "label": "Business economics",
+          "wikiLink": "http://en.wikipedia.org/Category:Business_economics",
+          "score": 0.4763,
+          "wikidataId": "Q6741473"
+        },
+        {
+          "id": 24,
+          "label": "Charity fundraising",
+          "wikiLink": "http://en.wikipedia.org/Category:Charity_fundraising",
+          "score": 0.476,
+          "wikidataId": "Q65718989"
+        },
+        {
+          "id": 25,
+          "label": "Wills and trusts",
+          "wikiLink": "http://en.wikipedia.org/Category:Wills_and_trusts",
+          "score": 0.4654,
+          "wikidataId": "Q13306950"
+        },
+        {
+          "id": 26,
+          "label": "Investment",
+          "wikiLink": "http://en.wikipedia.org/Category:Investment",
+          "score": 0.4643,
+          "wikidataId": "Q7013555"
+        },
+        {
+          "id": 27,
+          "label": "Charitable organization",
+          "wikiLink": "http://en.wikipedia.org/Charitable_organization",
+          "score": 0.4597,
+          "wikidataId": "Q708676"
+        },
+        {
+          "id": 28,
+          "label": "Nonprofit organization",
+          "wikiLink": "http://en.wikipedia.org/Nonprofit_organization",
+          "score": 0.4594,
+          "wikidataId": "Q163740"
+        },
+        {
+          "id": 29,
+          "label": "Organization",
+          "wikiLink": "http://en.wikipedia.org/Category:Organization",
+          "score": 0.4564,
+          "wikidataId": "Q32514771"
+        },
+        {
+          "id": 30,
+          "label": "Mixed economies",
+          "wikiLink": "http://en.wikipedia.org/Category:Mixed_economies",
+          "score": 0.4434,
+          "wikidataId": "Q8636544"
+        },
+        {
+          "id": 31,
+          "label": "Crowdsourcing",
+          "wikiLink": "http://en.wikipedia.org/Category:Crowdsourcing",
+          "score": 0.4384,
+          "wikidataId": "Q6344840"
+        },
+        {
+          "id": 32,
+          "label": "Political economy",
+          "wikiLink": "http://en.wikipedia.org/Category:Political_economy",
+          "score": 0.4258,
+          "wikidataId": "Q6358575"
+        },
+        {
+          "id": 33,
+          "label": "Private sector",
+          "wikiLink": "http://en.wikipedia.org/Category:Private_sector",
+          "score": 0.4049,
+          "wikidataId": "Q32565672"
+        },
+        {
+          "id": 34,
+          "label": "Asset management",
+          "wikiLink": "http://en.wikipedia.org/Category:Asset_management",
+          "score": 0.392,
+          "wikidataId": "Q30644650"
+        },
+        {
+          "id": 35,
+          "label": "Public economics",
+          "wikiLink": "http://en.wikipedia.org/Category:Public_economics",
+          "score": 0.3788,
+          "wikidataId": "Q6903429"
+        },
+        {
+          "id": 36,
+          "label": "Private equity",
+          "wikiLink": "http://en.wikipedia.org/Category:Private_equity",
+          "score": 0.3768,
+          "wikidataId": "Q8793957"
+        },
+        {
+          "id": 37,
+          "label": "Charity fundraisers",
+          "wikiLink": "http://en.wikipedia.org/Category:Charity_fundraisers",
+          "score": 0.3721,
+          "wikidataId": "Q7237886"
+        },
+        {
+          "id": 38,
+          "label": "Charities",
+          "wikiLink": "http://en.wikipedia.org/Category:Charities",
+          "score": 0.371,
+          "wikidataId": "Q6418598"
+        },
+        {
+          "id": 39,
+          "label": "Amateurism",
+          "wikiLink": "http://en.wikipedia.org/Category:Amateurism",
+          "score": 0.3565,
+          "wikidataId": "Q32562003"
+        },
+        {
+          "id": 40,
+          "label": "Small business",
+          "wikiLink": "http://en.wikipedia.org/Category:Small_business",
+          "score": 0.3546,
+          "wikidataId": "Q8754917"
+        },
+        {
+          "id": 41,
+          "label": "Digital labor",
+          "wikiLink": "http://en.wikipedia.org/Category:Digital_labor",
+          "score": 0.3505,
+          "wikidataId": "Q25336035"
+        },
+        {
+          "id": 42,
+          "label": "Europe",
+          "wikiLink": "http://en.wikipedia.org/Europe",
+          "score": 0.3501,
+          "wikidataId": "Q46"
+        },
+        {
+          "id": 43,
+          "label": "Social information processing",
+          "wikiLink": "http://en.wikipedia.org/Category:Social_information_processing",
+          "score": 0.3431,
+          "wikidataId": "Q7176701"
+        },
+        {
+          "id": 44,
+          "label": "Service industries",
+          "wikiLink": "http://en.wikipedia.org/Category:Service_industries",
+          "score": 0.336,
+          "wikidataId": "Q6143409"
+        },
+        {
+          "id": 45,
+          "label": "Promotion and marketing communications",
+          "wikiLink": "http://en.wikipedia.org/Category:Promotion_and_marketing_communications",
+          "score": 0.3182,
+          "wikidataId": "Q7216221"
+        },
+        {
+          "id": 46,
+          "label": "Business",
+          "wikiLink": "http://en.wikipedia.org/Category:Business",
+          "score": 0.3176,
+          "wikidataId": "Q6353120"
+        },
+        {
+          "id": 47,
+          "label": "Economics consulting",
+          "wikiLink": "http://en.wikipedia.org/Category:Economics_consulting",
+          "score": 0.3162,
+          "wikidataId": "Q113767584"
+        },
+        {
+          "id": 48,
+          "label": "Giving",
+          "wikiLink": "http://en.wikipedia.org/Category:Giving",
+          "score": 0.3137,
+          "wikidataId": "Q8999834"
+        },
+        {
+          "id": 49,
+          "label": "Oceania",
+          "wikiLink": "http://en.wikipedia.org/Oceania",
+          "score": 0.3136,
+          "wikidataId": "Q55643"
+        },
+        {
+          "id": 50,
+          "label": "World Wide Web",
+          "wikiLink": "http://en.wikipedia.org/Category:World_Wide_Web",
+          "score": 0.309,
+          "wikidataId": "Q4897839"
+        },
+        {
+          "id": 51,
+          "label": "Social issues",
+          "wikiLink": "http://en.wikipedia.org/Category:Social_issues",
+          "score": 0.3065,
+          "wikidataId": "Q7090668"
+        },
+        {
+          "id": 52,
+          "label": "Financial management",
+          "wikiLink": "http://en.wikipedia.org/Category:Financial_management",
+          "score": 0.3032,
+          "wikidataId": "Q14331533"
+        },
+        {
+          "id": 53,
+          "label": "Entrepreneurship",
+          "wikiLink": "http://en.wikipedia.org/Category:Entrepreneurship",
+          "score": 0.2996,
+          "wikidataId": "Q7026433"
+        },
+        {
+          "id": 54,
+          "label": "Business organizations",
+          "wikiLink": "http://en.wikipedia.org/Category:Business_organizations",
+          "score": 0.2933,
+          "wikidataId": "Q7191971"
+        },
+        {
+          "id": 55,
+          "label": "Equity securities",
+          "wikiLink": "http://en.wikipedia.org/Category:Equity_securities",
+          "score": 0.2922,
+          "wikidataId": "Q6572301"
+        },
+        {
+          "id": 56,
+          "label": "Financial services",
+          "wikiLink": "http://en.wikipedia.org/Category:Financial_services",
+          "score": 0.2897,
+          "wikidataId": "Q8458420"
+        },
+        {
+          "id": 57,
+          "label": "Private aid programs",
+          "wikiLink": "http://en.wikipedia.org/Category:Private_aid_programs",
+          "score": 0.2869,
+          "wikidataId": "Q105324213"
+        },
+        {
+          "id": 58,
+          "label": "Financial technology",
+          "wikiLink": "http://en.wikipedia.org/Category:Financial_technology",
+          "score": 0.2852,
+          "wikidataId": "Q18813436"
+        },
+        {
+          "id": 59,
+          "label": "Social influence",
+          "wikiLink": "http://en.wikipedia.org/Category:Social_influence",
+          "score": 0.2833,
+          "wikidataId": "Q16812617"
+        },
+        {
+          "id": 60,
+          "label": "North America",
+          "wikiLink": "http://en.wikipedia.org/North_America",
+          "score": 0.2821,
+          "wikidataId": "Q49"
+        },
+        {
+          "id": 61,
+          "label": "Financial markets",
+          "wikiLink": "http://en.wikipedia.org/Category:Financial_markets",
+          "score": 0.2794,
+          "wikidataId": "Q6469160"
+        },
+        {
+          "id": 62,
+          "label": "United States",
+          "wikiLink": "http://en.wikipedia.org/United_States",
+          "score": 0.279,
+          "wikidataId": "Q30"
+        },
+        {
+          "id": 63,
+          "label": "Collective intelligence",
+          "wikiLink": "http://en.wikipedia.org/Category:Collective_intelligence",
+          "score": 0.2758,
+          "wikidataId": "Q7463157"
+        },
+        {
+          "id": 64,
+          "label": "Innovation",
+          "wikiLink": "http://en.wikipedia.org/Category:Innovation",
+          "score": 0.2712,
+          "wikidataId": "Q7217425"
+        },
+        {
+          "id": 65,
+          "label": "Strategic management",
+          "wikiLink": "http://en.wikipedia.org/Category:Strategic_management",
+          "score": 0.2596,
+          "wikidataId": "Q7467674"
+        },
+        {
+          "id": 66,
+          "label": "Public services",
+          "wikiLink": "http://en.wikipedia.org/Category:Public_services",
+          "score": 0.2551,
+          "wikidataId": "Q7012662"
+        },
+        {
+          "id": 67,
+          "label": "Technology",
+          "wikiLink": "http://en.wikipedia.org/Category:Technology",
+          "score": 0.2491,
+          "wikidataId": "Q4884546"
+        },
+        {
+          "id": 68,
+          "label": "Information Age",
+          "wikiLink": "http://en.wikipedia.org/Category:Information_Age",
+          "score": 0.2491,
+          "wikidataId": "Q7063231"
+        },
+        {
+          "id": 69,
+          "label": "Private law",
+          "wikiLink": "http://en.wikipedia.org/Category:Private_law",
+          "score": 0.2485,
+          "wikidataId": "Q6468025"
+        },
+        {
+          "id": 70,
+          "label": "Cultural trends",
+          "wikiLink": "http://en.wikipedia.org/Category:Cultural_trends",
+          "score": 0.243,
+          "wikidataId": "Q6897768"
+        },
+        {
+          "id": 71,
+          "label": "Law",
+          "wikiLink": "http://en.wikipedia.org/Category:Law",
+          "score": 0.2344,
+          "wikidataId": "Q4026563"
+        },
+        {
+          "id": 72,
+          "label": "Public sector",
+          "wikiLink": "http://en.wikipedia.org/Category:Public_sector",
+          "score": 0.2318,
+          "wikidataId": "Q19533188"
+        },
+        {
+          "id": 73,
+          "label": "Mass media",
+          "wikiLink": "http://en.wikipedia.org/Category:Mass_media",
+          "score": 0.2306,
+          "wikidataId": "Q1458390"
+        },
+        {
+          "id": 74,
+          "label": "Web 2.0",
+          "wikiLink": "http://en.wikipedia.org/Category:Web_2.0",
+          "score": 0.2303,
+          "wikidataId": "Q7214775"
+        },
+        {
+          "id": 75,
+          "label": "Services (economics)",
+          "wikiLink": "http://en.wikipedia.org/Category:Services_(economics)",
+          "score": 0.2264,
+          "wikidataId": "Q8732802"
+        },
+        {
+          "id": 76,
+          "label": "Progress",
+          "wikiLink": "http://en.wikipedia.org/Category:Progress",
+          "score": 0.2251,
+          "wikidataId": "Q30815074"
+        },
+        {
+          "id": 77,
+          "label": "Business models",
+          "wikiLink": "http://en.wikipedia.org/Category:Business_models",
+          "score": 0.2229,
+          "wikidataId": "Q8664491"
+        },
+        {
+          "id": 78,
+          "label": "Information technology",
+          "wikiLink": "http://en.wikipedia.org/Category:Information_technology",
+          "score": 0.2228,
+          "wikidataId": "Q7214259"
+        },
+        {
+          "id": 79,
+          "label": "Business ethics",
+          "wikiLink": "http://en.wikipedia.org/Category:Business_ethics",
+          "score": 0.2211,
+          "wikidataId": "Q6812781"
+        },
+        {
+          "id": 80,
+          "label": "Justice",
+          "wikiLink": "http://en.wikipedia.org/Category:Justice",
+          "score": 0.2175,
+          "wikidataId": "Q7216532"
+        },
+        {
+          "id": 81,
+          "label": "Cyberspace",
+          "wikiLink": "http://en.wikipedia.org/Category:Cyberspace",
+          "score": 0.2161,
+          "wikidataId": "Q7215645"
+        },
+        {
+          "id": 82,
+          "label": "Business management",
+          "wikiLink": "http://en.wikipedia.org/Category:Business_management",
+          "score": 0.2144,
+          "wikidataId": "Q118236648"
+        },
+        {
+          "id": 83,
+          "label": "South America",
+          "wikiLink": "http://en.wikipedia.org/South_America",
+          "score": 0.207,
+          "wikidataId": "Q18"
+        },
+        {
+          "id": 84,
+          "label": "Social movements",
+          "wikiLink": "http://en.wikipedia.org/Category:Social_movements",
+          "score": 0.2066,
+          "wikidataId": "Q8011345"
+        },
+        {
+          "id": 85,
+          "label": "Communications management",
+          "wikiLink": "http://en.wikipedia.org/Category:Communications_management",
+          "score": 0.2062,
+          "wikidataId": "Q115322655"
+        },
+        {
+          "id": 86,
+          "label": "Legal documents",
+          "wikiLink": "http://en.wikipedia.org/Category:Legal_documents",
+          "score": 0.2046,
+          "wikidataId": "Q7214949"
+        },
+        {
+          "id": 87,
+          "label": "Political activism",
+          "wikiLink": "http://en.wikipedia.org/Category:Political_activism",
+          "score": 0.1999,
+          "wikidataId": "Q6613461"
+        },
+        {
+          "id": 88,
+          "label": "Money",
+          "wikiLink": "http://en.wikipedia.org/Category:Money",
+          "score": 0.1995,
+          "wikidataId": "Q4056882"
+        },
+        {
+          "id": 89,
+          "label": "Computer-mediated communication",
+          "wikiLink": "http://en.wikipedia.org/Category:Computer-mediated_communication",
+          "score": 0.199,
+          "wikidataId": "Q6897973"
+        },
+        {
+          "id": 90,
+          "label": "Occupational organizations",
+          "wikiLink": "http://en.wikipedia.org/Category:Occupational_organizations",
+          "score": 0.1965,
+          "wikidataId": "Q6290086"
+        },
+        {
+          "id": 91,
+          "label": "Marketing",
+          "wikiLink": "http://en.wikipedia.org/Category:Marketing",
+          "score": 0.1916,
+          "wikidataId": "Q7012234"
+        },
+        {
+          "id": 92,
+          "label": "Legal writing",
+          "wikiLink": "http://en.wikipedia.org/Category:Legal_writing",
+          "score": 0.191,
+          "wikidataId": "Q7440583"
+        },
+        {
+          "id": 93,
+          "label": "Asia",
+          "wikiLink": "http://en.wikipedia.org/Asia",
+          "score": 0.1896,
+          "wikidataId": "Q48"
+        },
+        {
+          "id": 94,
+          "label": "Human communication",
+          "wikiLink": "http://en.wikipedia.org/Category:Human_communication",
+          "score": 0.1863,
+          "wikidataId": "Q5612778"
+        },
+        {
+          "id": 95,
+          "label": "Internet",
+          "wikiLink": "http://en.wikipedia.org/Category:Internet",
+          "score": 0.1807,
+          "wikidataId": "Q4049595"
+        },
+        {
+          "id": 96,
+          "label": "Factor income distribution",
+          "wikiLink": "http://en.wikipedia.org/Category:Factor_income_distribution",
+          "score": 0.1802,
+          "wikidataId": "Q8442254"
+        },
+        {
+          "id": 97,
+          "label": "Market (economics)",
+          "wikiLink": "http://en.wikipedia.org/Category:Market_(economics)",
+          "score": 0.18,
+          "wikidataId": "Q8609419"
+        },
+        {
+          "id": 98,
+          "label": "Personal finance",
+          "wikiLink": "http://en.wikipedia.org/Category:Personal_finance",
+          "score": 0.1757,
+          "wikidataId": "Q6361298"
+        },
+        {
+          "id": 99,
+          "label": "Economy-related organizations",
+          "wikiLink": "http://en.wikipedia.org/Category:Economy-related_organizations",
+          "score": 0.1752,
+          "wikidataId": "Q24710445"
+        },
+        {
+          "id": 100,
+          "label": "Income statement",
+          "wikiLink": "http://en.wikipedia.org/Category:Income_statement",
+          "score": 0.1711,
+          "wikidataId": "Q27038665"
+        },
+        {
+          "id": 101,
+          "label": "Inheritance",
+          "wikiLink": "http://en.wikipedia.org/Category:Inheritance",
+          "score": 0.171,
+          "wikidataId": "Q8549387"
+        },
+        {
+          "id": 102,
+          "label": "Economics models",
+          "wikiLink": "http://en.wikipedia.org/Category:Economics_models",
+          "score": 0.1697,
+          "wikidataId": "Q7483210"
+        },
+        {
+          "id": 103,
+          "label": "Cyberpunk themes",
+          "wikiLink": "http://en.wikipedia.org/Category:Cyberpunk_themes",
+          "score": 0.1682,
+          "wikidataId": "Q8436672"
+        },
+        {
+          "id": 104,
+          "label": "New media",
+          "wikiLink": "http://en.wikipedia.org/Category:New_media",
+          "score": 0.166,
+          "wikidataId": "Q7465152"
+        },
+        {
+          "id": 105,
+          "label": "Labor relations",
+          "wikiLink": "http://en.wikipedia.org/Category:Labor_relations",
+          "score": 0.1653,
+          "wikidataId": "Q7065158"
+        },
+        {
+          "id": 106,
+          "label": "Property law",
+          "wikiLink": "http://en.wikipedia.org/Category:Property_law",
+          "score": 0.1603,
+          "wikidataId": "Q9811879"
+        },
+        {
+          "id": 107,
+          "label": "Work",
+          "wikiLink": "http://en.wikipedia.org/Category:Work",
+          "score": 0.1601,
+          "wikidataId": "Q9899472"
+        },
+        {
+          "id": 108,
+          "label": "Digital media",
+          "wikiLink": "http://en.wikipedia.org/Category:Digital_media",
+          "score": 0.1598,
+          "wikidataId": "Q8064942"
+        },
+        {
+          "id": 109,
+          "label": "Computer networks",
+          "wikiLink": "http://en.wikipedia.org/Category:Computer_networks",
+          "score": 0.1597,
+          "wikidataId": "Q6200392"
+        },
+        {
+          "id": 110,
+          "label": "Social psychology",
+          "wikiLink": "http://en.wikipedia.org/Category:Social_psychology",
+          "score": 0.1579,
+          "wikidataId": "Q7028952"
+        },
+        {
+          "id": 111,
+          "label": "Humanitarian aid",
+          "wikiLink": "http://en.wikipedia.org/Category:Humanitarian_aid",
+          "score": 0.1558,
+          "wikidataId": "Q8527481"
+        },
+        {
+          "id": 112,
+          "label": "Arts",
+          "wikiLink": "http://en.wikipedia.org/Category:Arts_by_type",
+          "score": 0.1533,
+          "wikidataId": "Q24205143"
+        },
+        {
+          "id": 113,
+          "label": "Data processing",
+          "wikiLink": "http://en.wikipedia.org/Category:Data_processing",
+          "score": 0.1524,
+          "wikidataId": "Q15099841"
+        },
+        {
+          "id": 114,
+          "label": "Labor-related organizations",
+          "wikiLink": "http://en.wikipedia.org/Category:Labor-related_organizations",
+          "score": 0.1506,
+          "wikidataId": "Q8579418"
+        },
+        {
+          "id": 115,
+          "label": "Group processes",
+          "wikiLink": "http://en.wikipedia.org/Category:Group_processes",
+          "score": 0.1496,
+          "wikidataId": "Q6387643"
+        },
+        {
+          "id": 116,
+          "label": "Payments",
+          "wikiLink": "http://en.wikipedia.org/Category:Payments",
+          "score": 0.1482,
+          "wikidataId": "Q6336083"
+        },
+        {
+          "id": 117,
+          "label": "Change",
+          "wikiLink": "http://en.wikipedia.org/Category:Change",
+          "score": 0.1475,
+          "wikidataId": "Q26262417"
+        },
+        {
+          "id": 118,
+          "label": "Sociology of knowledge",
+          "wikiLink": "http://en.wikipedia.org/Category:Sociology_of_knowledge",
+          "score": 0.1458,
+          "wikidataId": "Q8758557"
+        },
+        {
+          "id": 119,
+          "label": "Cultural globalization",
+          "wikiLink": "http://en.wikipedia.org/Category:Cultural_globalization",
+          "score": 0.1453,
+          "wikidataId": "Q7068914"
+        },
+        {
+          "id": 120,
+          "label": "Popular psychology",
+          "wikiLink": "http://en.wikipedia.org/Category:Popular_psychology",
+          "score": 0.1446,
+          "wikidataId": "Q6381219"
+        },
+        {
+          "id": 121,
+          "label": "Globalization",
+          "wikiLink": "http://en.wikipedia.org/Category:Globalization",
+          "score": 0.144,
+          "wikidataId": "Q7215578"
+        },
+        {
+          "id": 122,
+          "label": "Entities",
+          "wikiLink": "http://en.wikipedia.org/Category:Entities",
+          "score": 0.1416,
+          "wikidataId": "Q63456924"
+        },
+        {
+          "id": 123,
+          "label": "Civil law (legal system)",
+          "wikiLink": "http://en.wikipedia.org/Category:Civil_law_(legal_system)",
+          "score": 0.1397,
+          "wikidataId": "Q15055951"
+        },
+        {
+          "id": 124,
+          "label": "Africa",
+          "wikiLink": "http://en.wikipedia.org/Africa",
+          "score": 0.1392,
+          "wikidataId": "Q15"
+        },
+        {
+          "id": 125,
+          "label": "Civil law (common law)",
+          "wikiLink": "http://en.wikipedia.org/Category:Civil_law_(common_law)",
+          "score": 0.1382,
+          "wikidataId": "Q8999521"
+        },
+        {
+          "id": 126,
+          "label": "Global civilization",
+          "wikiLink": "http://en.wikipedia.org/Category:Global_civilization",
+          "score": 0.1346,
+          "wikidataId": "Q114080722"
+        },
+        {
+          "id": 127,
+          "label": "Labor",
+          "wikiLink": "http://en.wikipedia.org/Category:Labor",
+          "score": 0.1342,
+          "wikidataId": "Q6642423"
+        },
+        {
+          "id": 128,
+          "label": "Technological change",
+          "wikiLink": "http://en.wikipedia.org/Category:Technological_change",
+          "score": 0.1299,
+          "wikidataId": "Q7468384"
+        },
+        {
+          "id": 129,
+          "label": "Communication",
+          "wikiLink": "http://en.wikipedia.org/Category:Communication",
+          "score": 0.1299,
+          "wikidataId": "Q1458498"
+        },
+        {
+          "id": 130,
+          "label": "Multimedia",
+          "wikiLink": "http://en.wikipedia.org/Category:Multimedia",
+          "score": 0.1295,
+          "wikidataId": "Q8264880"
+        },
+        {
+          "id": 131,
+          "label": "Digital technology",
+          "wikiLink": "http://en.wikipedia.org/Category:Digital_technology",
+          "score": 0.1292,
+          "wikidataId": "Q5330608"
+        },
+        {
+          "id": 132,
+          "label": "Publishing",
+          "wikiLink": "http://en.wikipedia.org/Category:Publishing",
+          "score": 0.129,
+          "wikidataId": "Q5836947"
+        },
+        {
+          "id": 133,
+          "label": "Industrial relations",
+          "wikiLink": "http://en.wikipedia.org/Category:Industrial_relations",
+          "score": 0.1271,
+          "wikidataId": "Q6642479"
+        },
+        {
+          "id": 134,
+          "label": "Computing",
+          "wikiLink": "http://en.wikipedia.org/Category:Computing",
+          "score": 0.1264,
+          "wikidataId": "Q5330456"
+        },
+        {
+          "id": 135,
+          "label": "Mass media technology",
+          "wikiLink": "http://en.wikipedia.org/Category:Mass_media_technology",
+          "score": 0.126,
+          "wikidataId": "Q7471742"
+        },
+        {
+          "id": 136,
+          "label": "Electronic publishing",
+          "wikiLink": "http://en.wikipedia.org/Category:Electronic_publishing",
+          "score": 0.1248,
+          "wikidataId": "Q7453015"
+        },
+        {
+          "id": 137,
+          "label": "Natural resources law",
+          "wikiLink": "http://en.wikipedia.org/Category:Natural_resources_law",
+          "score": 0.124,
+          "wikidataId": "Q20902366"
+        },
+        {
+          "id": 138,
+          "label": "Employment",
+          "wikiLink": "http://en.wikipedia.org/Category:Employment",
+          "score": 0.1238,
+          "wikidataId": "Q6642305"
+        },
+        {
+          "id": 139,
+          "label": "Systems theory",
+          "wikiLink": "http://en.wikipedia.org/Category:Systems_theory",
+          "score": 0.1234,
+          "wikidataId": "Q7036033"
+        },
+        {
+          "id": 140,
+          "label": "Anti-consumerism",
+          "wikiLink": "http://en.wikipedia.org/Category:Anti-consumerism",
+          "score": 0.1232,
+          "wikidataId": "Q6184233"
+        },
+        {
+          "id": 141,
+          "label": "Legal literature",
+          "wikiLink": "http://en.wikipedia.org/Category:Legal_literature",
+          "score": 0.1208,
+          "wikidataId": "Q8586788"
+        },
+        {
+          "id": 142,
+          "label": "Banking",
+          "wikiLink": "http://en.wikipedia.org/Category:Banking",
+          "score": 0.1207,
+          "wikidataId": "Q6464427"
+        },
+        {
+          "id": 143,
+          "label": "Financial capital",
+          "wikiLink": "http://en.wikipedia.org/Category:Financial_capital",
+          "score": 0.1177,
+          "wikidataId": "Q30102890"
+        },
+        {
+          "id": 144,
+          "label": "Common law",
+          "wikiLink": "http://en.wikipedia.org/Category:Common_law",
+          "score": 0.1147,
+          "wikidataId": "Q7320183"
+        },
+        {
+          "id": 145,
+          "label": "Sociology of work",
+          "wikiLink": "http://en.wikipedia.org/Category:Sociology_of_work",
+          "score": 0.1146,
+          "wikidataId": "Q9120577"
+        },
+        {
+          "id": 146,
+          "label": "Organizational behavior",
+          "wikiLink": "http://en.wikipedia.org/Category:Organizational_behavior",
+          "score": 0.1126,
+          "wikidataId": "Q7034921"
+        },
+        {
+          "id": 147,
+          "label": "Alternate reality",
+          "wikiLink": "http://en.wikipedia.org/Category:Alternate_reality",
+          "score": 0.11,
+          "wikidataId": "Q7469016"
+        },
+        {
+          "id": 148,
+          "label": "Capital (economics)",
+          "wikiLink": "http://en.wikipedia.org/Category:Capital_(economics)",
+          "score": 0.1079,
+          "wikidataId": "Q8343137"
+        },
+        {
+          "id": 149,
+          "label": "Educational technology",
+          "wikiLink": "http://en.wikipedia.org/Category:Educational_technology",
+          "score": 0.1067,
+          "wikidataId": "Q8408260"
+        },
+        {
+          "id": 150,
+          "label": "Hobbies",
+          "wikiLink": "http://en.wikipedia.org/Category:Hobbies",
+          "score": 0.1023,
+          "wikidataId": "Q7216601"
+        },
+        {
+          "id": 151,
+          "label": "Documents",
+          "wikiLink": "http://en.wikipedia.org/Category:Documents",
+          "score": 0.1015,
+          "wikidataId": "Q5461105"
+        },
+        {
+          "id": 152,
+          "label": "Neologisms",
+          "wikiLink": "http://en.wikipedia.org/Category:Neologisms",
+          "score": 0.1002,
+          "wikidataId": "Q7023858"
+        },
+        {
+          "id": 153,
+          "label": "Telecommunications",
+          "wikiLink": "http://en.wikipedia.org/Category:Telecommunications",
+          "score": 0.1001,
+          "wikidataId": "Q7215330"
+        },
+        {
+          "id": 154,
+          "label": "Democracy",
+          "wikiLink": "http://en.wikipedia.org/Category:Democracy",
+          "score": 0.1001,
+          "wikidataId": "Q7235741"
+        },
+        {
+          "id": 155,
+          "label": "Trade",
+          "wikiLink": "http://en.wikipedia.org/Category:Trade",
+          "score": 0.09818,
+          "wikidataId": "Q7884060"
+        },
+        {
+          "id": 156,
+          "label": "Linear theories",
+          "wikiLink": "http://en.wikipedia.org/Category:Linear_theories",
+          "score": 0.09677,
+          "wikidataId": "Q115167016"
+        },
+        {
+          "id": 157,
+          "label": "Branches of science",
+          "wikiLink": "http://en.wikipedia.org/Category:Branches_of_science",
+          "score": 0.09562,
+          "wikidataId": "Q46509505"
+        },
+        {
+          "id": 158,
+          "label": "Information and communications technology",
+          "wikiLink": "http://en.wikipedia.org/Category:Information_and_communications_technology",
+          "score": 0.09342,
+          "wikidataId": "Q24898534"
+        },
+        {
+          "id": 159,
+          "label": "Interactive media",
+          "wikiLink": "http://en.wikipedia.org/Category:Interactive_media",
+          "score": 0.09177,
+          "wikidataId": "Q8550133"
+        },
+        {
+          "id": 160,
+          "label": "Virtual reality",
+          "wikiLink": "http://en.wikipedia.org/Category:Virtual_reality",
+          "score": 0.09149,
+          "wikidataId": "Q7023211"
+        },
+        {
+          "id": 161,
+          "label": "Science fiction themes",
+          "wikiLink": "http://en.wikipedia.org/Category:Science_fiction_themes",
+          "score": 0.08967,
+          "wikidataId": "Q7195563"
+        },
+        {
+          "id": 162,
+          "label": "Wide area networks",
+          "wikiLink": "http://en.wikipedia.org/Category:Wide_area_networks",
+          "score": 0.08716,
+          "wikidataId": "Q8124500"
+        },
+        {
+          "id": 163,
+          "label": "Banking technology",
+          "wikiLink": "http://en.wikipedia.org/Category:Banking_technology",
+          "score": 0.08706,
+          "wikidataId": "Q7471755"
+        },
+        {
+          "id": 164,
+          "label": "Networks",
+          "wikiLink": "http://en.wikipedia.org/Category:Networks",
+          "score": 0.08609,
+          "wikidataId": "Q7214061"
+        },
+        {
+          "id": 165,
+          "label": "Interactivity",
+          "wikiLink": "http://en.wikipedia.org/Category:Interactivity",
+          "score": 0.08561,
+          "wikidataId": "Q105744016"
+        },
+        {
+          "id": 166,
+          "label": "Economic anthropology",
+          "wikiLink": "http://en.wikipedia.org/Category:Economic_anthropology",
+          "score": 0.08515,
+          "wikidataId": "Q8398306"
+        },
+        {
+          "id": 167,
+          "label": "Cyberpunk",
+          "wikiLink": "http://en.wikipedia.org/Category:Cyberpunk",
+          "score": 0.08455,
+          "wikidataId": "Q8436733"
+        },
+        {
+          "id": 168,
+          "label": "Human–computer interaction",
+          "wikiLink": "http://en.wikipedia.org/Category:Human–computer_interaction",
+          "score": 0.08373,
+          "wikidataId": "Q8527502"
+        },
+        {
+          "id": 169,
+          "label": "Cultural exchange",
+          "wikiLink": "http://en.wikipedia.org/Category:Cultural_exchange",
+          "score": 0.08292,
+          "wikidataId": "Q8991724"
+        },
+        {
+          "id": 170,
+          "label": "Cultural geography",
+          "wikiLink": "http://en.wikipedia.org/Category:Cultural_geography",
+          "score": 0.08287,
+          "wikidataId": "Q6978493"
+        },
+        {
+          "id": 171,
+          "label": "User interfaces",
+          "wikiLink": "http://en.wikipedia.org/Category:User_interfaces",
+          "score": 0.08174,
+          "wikidataId": "Q7162744"
+        },
+        {
+          "id": 172,
+          "label": "Computer networking",
+          "wikiLink": "http://en.wikipedia.org/Category:Computer_networking",
+          "score": 0.08171,
+          "wikidataId": "Q9955162"
+        },
+        {
+          "id": 173,
+          "label": "Microeconomics",
+          "wikiLink": "http://en.wikipedia.org/Category:Microeconomics",
+          "score": 0.08134,
+          "wikidataId": "Q7214790"
+        },
+        {
+          "id": 174,
+          "label": "Training",
+          "wikiLink": "http://en.wikipedia.org/Category:Training",
+          "score": 0.08056,
+          "wikidataId": "Q8809490"
+        },
+        {
+          "id": 175,
+          "label": "Civil services",
+          "wikiLink": "http://en.wikipedia.org/Category:Civil_services",
+          "score": 0.07979,
+          "wikidataId": "Q6140871"
+        },
+        {
+          "id": 176,
+          "label": "Hypertext",
+          "wikiLink": "http://en.wikipedia.org/Category:Hypertext",
+          "score": 0.07858,
+          "wikidataId": "Q6376066"
+        },
+        {
+          "id": 177,
+          "label": "Small and medium-sized enterprises",
+          "wikiLink": "http://en.wikipedia.org/Category:Small_and_medium-sized_enterprises",
+          "score": 0.07754,
+          "wikidataId": "Q9547886"
+        },
+        {
+          "id": 178,
+          "label": "Word coinage",
+          "wikiLink": "http://en.wikipedia.org/Category:Word_coinage",
+          "score": 0.07608,
+          "wikidataId": "Q7014225"
+        },
+        {
+          "id": 179,
+          "label": "Leisure",
+          "wikiLink": "http://en.wikipedia.org/Category:Leisure",
+          "score": 0.07537,
+          "wikidataId": "Q6505538"
+        },
+        {
+          "id": 180,
+          "label": "Cognition",
+          "wikiLink": "http://en.wikipedia.org/Category:Cognition",
+          "score": 0.07466,
+          "wikidataId": "Q6553131"
+        },
+        {
+          "id": 181,
+          "label": "Transport",
+          "wikiLink": "http://en.wikipedia.org/Category:Transport",
+          "score": 0.07396,
+          "wikidataId": "Q7216108"
+        },
+        {
+          "id": 182,
+          "label": "Natural sciences",
+          "wikiLink": "http://en.wikipedia.org/Category:Natural_sciences",
+          "score": 0.07192,
+          "wikidataId": "Q1457332"
+        },
+        {
+          "id": 183,
+          "label": "Inventions",
+          "wikiLink": "http://en.wikipedia.org/Category:Inventions",
+          "score": 0.07143,
+          "wikidataId": "Q7013053"
+        },
+        {
+          "id": 184,
+          "label": "Collaboration",
+          "wikiLink": "http://en.wikipedia.org/Category:Collaboration",
+          "score": 0.07069,
+          "wikidataId": "Q7216201"
+        },
+        {
+          "id": 185,
+          "label": "Populism",
+          "wikiLink": "http://en.wikipedia.org/Category:Populism",
+          "score": 0.06992,
+          "wikidataId": "Q10069470"
+        },
+        {
+          "id": 186,
+          "label": "Physical sciences",
+          "wikiLink": "http://en.wikipedia.org/Category:Physical_sciences",
+          "score": 0.06978,
+          "wikidataId": "Q7153079"
+        },
+        {
+          "id": 187,
+          "label": "User interface techniques",
+          "wikiLink": "http://en.wikipedia.org/Category:User_interface_techniques",
+          "score": 0.06863,
+          "wikidataId": "Q7214249"
+        },
+        {
+          "id": 188,
+          "label": "Extended reality",
+          "wikiLink": "http://en.wikipedia.org/Category:Extended_reality",
+          "score": 0.06737,
+          "wikidataId": "Q118970485"
+        },
+        {
+          "id": 189,
+          "label": "Illusions",
+          "wikiLink": "http://en.wikipedia.org/Category:Illusions",
+          "score": 0.06675,
+          "wikidataId": "Q6967695"
+        },
+        {
+          "id": 190,
+          "label": "Lexicology",
+          "wikiLink": "http://en.wikipedia.org/Category:Lexicology",
+          "score": 0.06553,
+          "wikidataId": "Q7066490"
+        },
+        {
+          "id": 191,
+          "label": "Computer graphics",
+          "wikiLink": "http://en.wikipedia.org/Category:Computer_graphics",
+          "score": 0.06493,
+          "wikidataId": "Q7023446"
+        },
+        {
+          "id": 192,
+          "label": "Words",
+          "wikiLink": "http://en.wikipedia.org/Category:Words",
+          "score": 0.06433,
+          "wikidataId": "Q5915288"
+        },
+        {
+          "id": 193,
+          "label": "Transportation engineering",
+          "wikiLink": "http://en.wikipedia.org/Category:Transportation_engineering",
+          "score": 0.06374,
+          "wikidataId": "Q7153751"
+        },
+        {
+          "id": 194,
+          "label": "Political funding",
+          "wikiLink": "http://en.wikipedia.org/Category:Political_funding",
+          "score": 0.06352,
+          "wikidataId": "Q8769804"
+        },
+        {
+          "id": 195,
+          "label": "Etymology",
+          "wikiLink": "http://en.wikipedia.org/Category:Etymology",
+          "score": 0.06295,
+          "wikidataId": "Q7453383"
+        },
+        {
+          "id": 196,
+          "label": "Cultural assimilation",
+          "wikiLink": "http://en.wikipedia.org/Category:Cultural_assimilation",
+          "score": 0.06258,
+          "wikidataId": "Q7013297"
+        },
+        {
+          "id": 197,
+          "label": "Goods (economics)",
+          "wikiLink": "http://en.wikipedia.org/Category:Goods_(economics)",
+          "score": 0.06144,
+          "wikidataId": "Q5672864"
+        },
+        {
+          "id": 198,
+          "label": "Intelligence",
+          "wikiLink": "http://en.wikipedia.org/Category:Intelligence",
+          "score": 0.06088,
+          "wikidataId": "Q7214211"
+        },
+        {
+          "id": 199,
+          "label": "Storage media",
+          "wikiLink": "http://en.wikipedia.org/Category:Storage_media",
+          "score": 0.05923,
+          "wikidataId": "Q9851044"
+        },
+        {
+          "id": 200,
+          "label": "Political campaigning",
+          "wikiLink": "http://en.wikipedia.org/Category:Political_campaigning",
+          "score": 0.05891,
+          "wikidataId": "Q49812401"
+        },
+        {
+          "id": 201,
+          "label": "Electronics",
+          "wikiLink": "http://en.wikipedia.org/Category:Electronics",
+          "score": 0.05869,
+          "wikidataId": "Q5460952"
+        },
+        {
+          "id": 202,
+          "label": "Vocabulary",
+          "wikiLink": "http://en.wikipedia.org/Category:Vocabulary",
+          "score": 0.05815,
+          "wikidataId": "Q5910807"
+        },
+        {
+          "id": 203,
+          "label": "Second Industrial Revolution",
+          "wikiLink": "http://en.wikipedia.org/Category:Second_Industrial_Revolution",
+          "score": 0.0571,
+          "wikidataId": "Q24067809"
+        },
+        {
+          "id": 204,
+          "label": "Intertextuality",
+          "wikiLink": "http://en.wikipedia.org/Category:Intertextuality",
+          "score": 0.05658,
+          "wikidataId": "Q8551952"
+        },
+        {
+          "id": 205,
+          "label": "Mental processes",
+          "wikiLink": "http://en.wikipedia.org/Category:Mental_processes",
+          "score": 0.05606,
+          "wikidataId": "Q6523057"
+        },
+        {
+          "id": 206,
+          "label": "Politics",
+          "wikiLink": "http://en.wikipedia.org/Category:Politics",
+          "score": 0.05505,
+          "wikidataId": "Q4103183"
+        },
+        {
+          "id": 207,
+          "label": "Branches of linguistics",
+          "wikiLink": "http://en.wikipedia.org/Category:Branches_of_linguistics",
+          "score": 0.05342,
+          "wikidataId": "Q8021964"
+        },
+        {
+          "id": 208,
+          "label": "Campaigning",
+          "wikiLink": "http://en.wikipedia.org/Category:Campaigning",
+          "score": 0.05197,
+          "wikidataId": "Q55975323"
+        }
+      ],
+      "entities": [
+        {
+          "id": 0,
+          "matchingTokens": [
+            39
+          ],
+          "entityId": "Fundraising",
+          "freebaseTypes": [
+            "/tv/tv_subject",
+            "/people/profession",
+            "/computer/software_genre",
+            "/organization/organization_sector"
+          ],
+          "confidenceScore": 3.248,
+          "wikiLink": "http://en.wikipedia.org/wiki/Fundraising",
+          "matchedText": "Fundraising",
+          "freebaseId": "/m/03psn_",
+          "relevanceScore": 0.5976,
+          "entityEnglishId": "Fundraising",
+          "startingPos": 289,
+          "endingPos": 300,
+          "wikidataId": "Q1161355"
+        },
+        {
+          "id": 1,
+          "matchingTokens": [
+            36
+          ],
+          "entityId": "Fundraising",
+          "freebaseTypes": [
+            "/tv/tv_subject",
+            "/people/profession",
+            "/computer/software_genre",
+            "/organization/organization_sector"
+          ],
+          "confidenceScore": 3.248,
+          "wikiLink": "http://en.wikipedia.org/wiki/Fundraising",
+          "matchedText": "Fundraising",
+          "freebaseId": "/m/03psn_",
+          "relevanceScore": 0.5976,
+          "entityEnglishId": "Fundraising",
+          "startingPos": 274,
+          "endingPos": 285,
+          "wikidataId": "Q1161355"
+        },
+        {
+          "id": 2,
+          "type": [
+            "Place",
+            "PopulatedPlace",
+            "Region",
+            "Continent",
+            "AdministrativeRegion"
+          ],
+          "matchingTokens": [
+            71
+          ],
+          "entityId": "Oceania",
+          "freebaseTypes": [
+            "/organization/organization_scope",
+            "/amusement_parks/ride_theme",
+            "/location/continent",
+            "/book/book_subject",
+            "/location/statistical_region",
+            "/location/location"
+          ],
+          "confidenceScore": 1.685,
+          "wikiLink": "http://en.wikipedia.org/wiki/Oceania",
+          "matchedText": "Oceania",
+          "freebaseId": "/m/05nrg",
+          "relevanceScore": 0.1981,
+          "entityEnglishId": "Oceania",
+          "startingPos": 670,
+          "endingPos": 677,
+          "wikidataId": "Q55643",
+          "wikidataTypes": [
+            "Q26713767/region of space",
+            "Q205895/landmass",
+            "Q58415929/spatio-temporal entity",
+            "Q27096220/natural geographic entity",
+            "Q2418896/part of the world",
+            "Q1970309/natural object",
+            "Q124711484/spatial region",
+            "Q35145263/natural geographic object",
+            "Q82794/geographic region",
+            "Q23956024/spacetime region",
+            "Q618123/geographical feature",
+            "Q123349660/geolocatable entity",
+            "Q20719696/physico-geographical object",
+            "Q27096213/geographic entity",
+            "Q5107/continent",
+            "Q223557/physical object",
+            "Q25404640/spatial object",
+            "Q16686022/natural physical object"
+          ]
+        },
+        {
+          "id": 3,
+          "matchingTokens": [
+            2
+          ],
+          "entityId": "Fundraising",
+          "freebaseTypes": [
+            "/tv/tv_subject",
+            "/people/profession",
+            "/computer/software_genre",
+            "/organization/organization_sector"
+          ],
+          "confidenceScore": 3.248,
+          "wikiLink": "http://en.wikipedia.org/wiki/Fundraising",
+          "matchedText": "Fundraising",
+          "freebaseId": "/m/03psn_",
+          "relevanceScore": 0.5976,
+          "entityEnglishId": "Fundraising",
+          "startingPos": 31,
+          "endingPos": 42,
+          "wikidataId": "Q1161355"
+        },
+        {
+          "id": 4,
+          "type": [
+            "Place",
+            "PopulatedPlace",
+            "Continent"
+          ],
+          "matchingTokens": [
+            73,
+            74
+          ],
+          "entityId": "South America",
+          "freebaseTypes": [
+            "/organization/organization_scope",
+            "/location/statistical_region",
+            "/location/continent",
+            "/periodicals/newspaper_circulation_area",
+            "/travel/travel_destination",
+            "/location/location",
+            "/book/book_subject"
+          ],
+          "confidenceScore": 1.931,
+          "wikiLink": "http://en.wikipedia.org/wiki/South_America",
+          "matchedText": "South America",
+          "freebaseId": "/m/06n3y",
+          "relevanceScore": 0.1307,
+          "entityEnglishId": "South America",
+          "startingPos": 697,
+          "endingPos": 710,
+          "wikidataId": "Q18",
+          "wikidataTypes": [
+            "Q2221906/geographic location",
+            "Q27096220/natural geographic entity",
+            "Q618123/geographical feature",
+            "Q17334923/physical location",
+            "Q82794/geographic region",
+            "Q223557/physical object",
+            "Q855697/subcontinent",
+            "Q35145263/natural geographic object",
+            "Q15642541/human-geographic territorial entity",
+            "Q26713767/region of space",
+            "Q58415929/spatio-temporal entity",
+            "Q20719696/physico-geographical object",
+            "Q1970309/natural object",
+            "Q205895/landmass",
+            "Q23956024/spacetime region",
+            "Q4835091/territory",
+            "Q5107/continent",
+            "Q124711484/spatial region",
+            "Q123349660/geolocatable entity",
+            "Q27096213/geographic entity",
+            "Q15042037/statistical territorial entity",
+            "Q25404640/spatial object",
+            "Q16686022/natural physical object"
+          ]
+        },
+        {
+          "id": 5,
+          "matchingTokens": [
+            5
+          ],
+          "entityId": "Crowdfunding",
+          "confidenceScore": 8.05,
+          "wikiLink": "http://en.wikipedia.org/wiki/Crowdfunding",
+          "matchedText": "Crowdfunding",
+          "freebaseId": "/m/0cc52jm",
+          "relevanceScore": 0.4394,
+          "entityEnglishId": "Crowdfunding",
+          "startingPos": 56,
+          "endingPos": 68,
+          "wikidataId": "Q348303",
+          "wikidataTypes": [
+            "Q815823/business model",
+            "Q11028/information",
+            "Q1979154/model"
+          ]
+        },
+        {
+          "id": 6,
+          "type": [
+            "Place",
+            "PopulatedPlace",
+            "Country"
+          ],
+          "matchingTokens": [
+            74
+          ],
+          "entityId": "United States",
+          "freebaseTypes": [
+            "/tv/tv_location",
+            "/sports/sports_team_location",
+            "/event/speech_topic",
+            "/organization/organization_sector",
+            "/government/governmental_jurisdiction",
+            "/olympics/olympic_participating_country",
+            "/location/administrative_division",
+            "/location/country",
+            "/sports/sport_country",
+            "/periodicals/newspaper_circulation_area",
+            "/location/location",
+            "/travel/travel_destination",
+            "/media_common/quotation_subject",
+            "/meteorology/cyclone_affected_area",
+            "/biology/breed_origin",
+            "/exhibitions/exhibition_subject",
+            "/religion/religious_leadership_jurisdiction",
+            "/radio/radio_subject",
+            "/location/dated_location",
+            "/organization/contact_category",
+            "/organization/organization_founder",
+            "/film/film_location",
+            "/location/statistical_region",
+            "/business/business_location",
+            "/media_common/quotation_addressee",
+            "/government/government",
+            "/military/military_unit_place_of_origin",
+            "/fictional_universe/fictional_setting",
+            "/symbols/flag_referent",
+            "/symbols/name_source",
+            "/book/book_subject",
+            "/business/employer",
+            "/organization/organization_member",
+            "/business/asset_owner",
+            "/film/film_subject",
+            "/food/beer_country_region",
+            "/organization/organization_scope",
+            "/cvg/computer_game_region",
+            "/military/military_combatant",
+            "/law/court_jurisdiction_area"
+          ],
+          "confidenceScore": 3.958,
+          "wikiLink": "http://en.wikipedia.org/wiki/United_States",
+          "matchedText": "America",
+          "freebaseId": "/m/09c7w0",
+          "relevanceScore": 0.1338,
+          "entityEnglishId": "United States",
+          "startingPos": 703,
+          "endingPos": 710,
+          "wikidataId": "Q30",
+          "wikidataTypes": [
+            "Q2221906/geographic location",
+            "Q15239622/disputed territory",
+            "Q6256/country",
+            "Q183366/territory",
+            "Q1520223/constitutional republic",
+            "Q10711424/state with limited recognition",
+            "Q43702/federation",
+            "Q7275/state",
+            "Q96088545/former geographical object",
+            "Q1048835/political territorial entity",
+            "Q618123/geographical feature",
+            "Q7270/republic",
+            "Q17334923/physical location",
+            "Q82794/geographic region",
+            "Q3624078/sovereign state",
+            "Q1063239/polity",
+            "Q1639378/social system",
+            "Q6266/nation",
+            "Q1489259/superpower",
+            "Q52551684/historical geographic location",
+            "Q512187/federal republic",
+            "Q99541706/historical unrecognized state",
+            "Q15893266/former entity",
+            "Q15642541/human-geographic territorial entity",
+            "Q1896989/subject of international law",
+            "Q58415929/spatio-temporal entity",
+            "Q26713767/region of space",
+            "Q7174/democracy",
+            "Q19832712/historical administrative division",
+            "Q28108/political system",
+            "Q155076/juridical person",
+            "Q19953632/former administrative territorial entity",
+            "Q5589178/regime",
+            "Q183039/form of state",
+            "Q23956024/spacetime region",
+            "Q4835091/territory",
+            "Q96196009/former or current state",
+            "Q22676603/federal system",
+            "Q1140229/political union",
+            "Q124711484/spatial region",
+            "Q1620908/historical region",
+            "Q3024240/historical country",
+            "Q56061/administrative territorial entity",
+            "Q123349660/geolocatable entity",
+            "Q27096213/geographic entity",
+            "Q5255892/Democratic Republic",
+            "Q25404640/spatial object"
+          ]
+        },
+        {
+          "id": 7,
+          "matchingTokens": [
+            49
+          ],
+          "entityId": "Charitable organization",
+          "freebaseTypes": [
+            "/radio/radio_subject",
+            "/organization/organization_sector",
+            "/book/book_subject",
+            "/organization/non_profit_designation",
+            "/organization/organization_type",
+            "/business/industry",
+            "/award/ranked_item"
+          ],
+          "confidenceScore": 1.028,
+          "wikiLink": "http://en.wikipedia.org/wiki/Charitable_organization",
+          "matchedText": "Charity",
+          "freebaseId": "/m/04dp32",
+          "relevanceScore": 0.2904,
+          "entityEnglishId": "Charitable organization",
+          "startingPos": 406,
+          "endingPos": 413,
+          "wikidataId": "Q708676",
+          "wikidataTypes": [
+            "Q10541491/legal form"
+          ]
+        },
+        {
+          "id": 8,
+          "matchingTokens": [
+            94
+          ],
+          "entityId": "Nonprofit organization",
+          "freebaseTypes": [
+            "/education/school_category",
+            "/organization/organization_sector",
+            "/organization/contact_category",
+            "/government/government_agency",
+            "/tv/tv_subject",
+            "/organization/organization_type",
+            "/business/industry",
+            "/internet/website_category",
+            "/business/company_type"
+          ],
+          "confidenceScore": 2.809,
+          "wikiLink": "http://en.wikipedia.org/wiki/Nonprofit_organization",
+          "matchedText": "nonprofits",
+          "freebaseId": "/m/0259tnd",
+          "relevanceScore": 0.2901,
+          "entityEnglishId": "Nonprofit organization",
+          "startingPos": 856,
+          "endingPos": 866,
+          "wikidataId": "Q163740",
+          "wikidataTypes": [
+            "Q10541491/legal form",
+            "Q96251598/type of object",
+            "Q268592/industry",
+            "Q17197366/type of organisation"
+          ]
+        },
+        {
+          "id": 9,
+          "type": [
+            "Number"
+          ],
+          "matchingTokens": [
+            92
+          ],
+          "entityId": "50000",
+          "confidenceScore": 0.5,
+          "wikiLink": "",
+          "matchedText": "50,000",
+          "relevanceScore": 0,
+          "entityEnglishId": "",
+          "startingPos": 848,
+          "endingPos": 854
+        },
+        {
+          "id": 10,
+          "type": [
+            "Place",
+            "PopulatedPlace",
+            "Continent"
+          ],
+          "matchingTokens": [
+            62
+          ],
+          "entityId": "Africa",
+          "freebaseTypes": [
+            "/tv/tv_location",
+            "/location/dated_location",
+            "/media_common/netflix_genre",
+            "/location/statistical_region",
+            "/travel/travel_destination",
+            "/location/continent",
+            "/biology/breed_origin",
+            "/book/book_subject",
+            "/location/location",
+            "/organization/organization_scope",
+            "/tv/tv_subject"
+          ],
+          "confidenceScore": 1.952,
+          "wikiLink": "http://en.wikipedia.org/wiki/Africa",
+          "matchedText": "Africa",
+          "freebaseId": "/m/0dg3n1",
+          "relevanceScore": 0.08791,
+          "entityEnglishId": "Africa",
+          "startingPos": 561,
+          "endingPos": 567,
+          "wikidataId": "Q15",
+          "wikidataTypes": [
+            "Q2221906/geographic location",
+            "Q27096220/natural geographic entity",
+            "Q618123/geographical feature",
+            "Q17334923/physical location",
+            "Q82794/geographic region",
+            "Q223557/physical object",
+            "Q35145263/natural geographic object",
+            "Q26713767/region of space",
+            "Q58415929/spatio-temporal entity",
+            "Q20719696/physico-geographical object",
+            "Q1970309/natural object",
+            "Q205895/landmass",
+            "Q23956024/spacetime region",
+            "Q5107/continent",
+            "Q124711484/spatial region",
+            "Q123349660/geolocatable entity",
+            "Q27096213/geographic entity",
+            "Q25404640/spatial object",
+            "Q16686022/natural physical object"
+          ]
+        },
+        {
+          "id": 11,
+          "type": [
+            "Place",
+            "PopulatedPlace",
+            "Continent"
+          ],
+          "matchingTokens": [
+            64
+          ],
+          "entityId": "Asia",
+          "freebaseTypes": [
+            "/travel/travel_destination",
+            "/location/statistical_region",
+            "/biology/breed_origin",
+            "/geography/geographical_feature",
+            "/location/location",
+            "/book/book_subject",
+            "/book/periodical_subject",
+            "/location/continent",
+            "/organization/organization_scope",
+            "/location/region",
+            "/periodicals/newspaper_circulation_area",
+            "/business/industry"
+          ],
+          "confidenceScore": 1.67,
+          "wikiLink": "http://en.wikipedia.org/wiki/Asia",
+          "matchedText": "Asia",
+          "freebaseId": "/m/0j0k",
+          "relevanceScore": 0.1197,
+          "entityEnglishId": "Asia",
+          "startingPos": 587,
+          "endingPos": 591,
+          "wikidataId": "Q48",
+          "wikidataTypes": [
+            "Q26713767/region of space",
+            "Q205895/landmass",
+            "Q58415929/spatio-temporal entity",
+            "Q27096220/natural geographic entity",
+            "Q2418896/part of the world",
+            "Q1970309/natural object",
+            "Q124711484/spatial region",
+            "Q35145263/natural geographic object",
+            "Q82794/geographic region",
+            "Q23956024/spacetime region",
+            "Q618123/geographical feature",
+            "Q123349660/geolocatable entity",
+            "Q20719696/physico-geographical object",
+            "Q27096213/geographic entity",
+            "Q5107/continent",
+            "Q223557/physical object",
+            "Q25404640/spatial object",
+            "Q16686022/natural physical object"
+          ]
+        },
+        {
+          "id": 12,
+          "type": [
+            "Place",
+            "PopulatedPlace",
+            "Continent"
+          ],
+          "matchingTokens": [
+            66
+          ],
+          "entityId": "Europe",
+          "freebaseTypes": [
+            "/book/book_subject",
+            "/fictional_universe/fictional_setting",
+            "/periodicals/newspaper_circulation_area",
+            "/location/statistical_region",
+            "/travel/travel_destination",
+            "/location/dated_location",
+            "/organization/organization_scope",
+            "/location/continent",
+            "/government/governmental_jurisdiction",
+            "/meteorology/cyclone_affected_area",
+            "/cvg/computer_game_region",
+            "/meteorology/forecast_zone",
+            "/biology/breed_origin",
+            "/location/location",
+            "/location/region",
+            "/symbols/namesake",
+            "/symbols/name_source"
+          ],
+          "confidenceScore": 1.672,
+          "wikiLink": "http://en.wikipedia.org/wiki/Europe",
+          "matchedText": "Europe",
+          "freebaseId": "/m/02j9z",
+          "relevanceScore": 0.2211,
+          "entityEnglishId": "Europe",
+          "startingPos": 611,
+          "endingPos": 617,
+          "wikidataId": "Q46",
+          "wikidataTypes": [
+            "Q26713767/region of space",
+            "Q205895/landmass",
+            "Q58415929/spatio-temporal entity",
+            "Q27096220/natural geographic entity",
+            "Q2418896/part of the world",
+            "Q1970309/natural object",
+            "Q124711484/spatial region",
+            "Q35145263/natural geographic object",
+            "Q82794/geographic region",
+            "Q23956024/spacetime region",
+            "Q618123/geographical feature",
+            "Q123349660/geolocatable entity",
+            "Q20719696/physico-geographical object",
+            "Q27096213/geographic entity",
+            "Q5107/continent",
+            "Q223557/physical object",
+            "Q25404640/spatial object",
+            "Q16686022/natural physical object"
+          ]
+        },
+        {
+          "id": 13,
+          "type": [
+            "Place",
+            "PopulatedPlace",
+            "Continent"
+          ],
+          "matchingTokens": [
+            68,
+            69
+          ],
+          "entityId": "North America",
+          "freebaseTypes": [
+            "/location/dated_location",
+            "/location/location",
+            "/location/statistical_region",
+            "/travel/travel_destination",
+            "/film/film_screening_venue",
+            "/location/continent",
+            "/organization/organization_scope",
+            "/periodicals/newspaper_circulation_area",
+            "/cvg/computer_game_region",
+            "/book/book_subject"
+          ],
+          "confidenceScore": 2.204,
+          "wikiLink": "http://en.wikipedia.org/wiki/North_America",
+          "matchedText": "North America",
+          "freebaseId": "/m/059g4",
+          "relevanceScore": 0.1782,
+          "entityEnglishId": "North America",
+          "startingPos": 637,
+          "endingPos": 650,
+          "wikidataId": "Q49",
+          "wikidataTypes": [
+            "Q26713767/region of space",
+            "Q205895/landmass",
+            "Q58415929/spatio-temporal entity",
+            "Q27096220/natural geographic entity",
+            "Q855697/subcontinent",
+            "Q1970309/natural object",
+            "Q124711484/spatial region",
+            "Q35145263/natural geographic object",
+            "Q82794/geographic region",
+            "Q23956024/spacetime region",
+            "Q618123/geographical feature",
+            "Q123349660/geolocatable entity",
+            "Q20719696/physico-geographical object",
+            "Q27096213/geographic entity",
+            "Q5107/continent",
+            "Q223557/physical object",
+            "Q25404640/spatial object",
+            "Q16686022/natural physical object"
+          ]
+        },
+        {
+          "id": 14,
+          "type": [
+            "Place",
+            "PopulatedPlace",
+            "Country"
+          ],
+          "matchingTokens": [
+            69
+          ],
+          "entityId": "United States",
+          "freebaseTypes": [
+            "/tv/tv_location",
+            "/sports/sports_team_location",
+            "/event/speech_topic",
+            "/organization/organization_sector",
+            "/government/governmental_jurisdiction",
+            "/olympics/olympic_participating_country",
+            "/location/administrative_division",
+            "/location/country",
+            "/sports/sport_country",
+            "/periodicals/newspaper_circulation_area",
+            "/location/location",
+            "/travel/travel_destination",
+            "/media_common/quotation_subject",
+            "/meteorology/cyclone_affected_area",
+            "/biology/breed_origin",
+            "/exhibitions/exhibition_subject",
+            "/religion/religious_leadership_jurisdiction",
+            "/radio/radio_subject",
+            "/location/dated_location",
+            "/organization/contact_category",
+            "/organization/organization_founder",
+            "/film/film_location",
+            "/location/statistical_region",
+            "/business/business_location",
+            "/media_common/quotation_addressee",
+            "/government/government",
+            "/military/military_unit_place_of_origin",
+            "/fictional_universe/fictional_setting",
+            "/symbols/flag_referent",
+            "/symbols/name_source",
+            "/book/book_subject",
+            "/business/employer",
+            "/organization/organization_member",
+            "/business/asset_owner",
+            "/film/film_subject",
+            "/food/beer_country_region",
+            "/organization/organization_scope",
+            "/cvg/computer_game_region",
+            "/military/military_combatant",
+            "/law/court_jurisdiction_area"
+          ],
+          "confidenceScore": 3.958,
+          "wikiLink": "http://en.wikipedia.org/wiki/United_States",
+          "matchedText": "America",
+          "freebaseId": "/m/09c7w0",
+          "relevanceScore": 0.1338,
+          "entityEnglishId": "United States",
+          "startingPos": 643,
+          "endingPos": 650,
+          "wikidataId": "Q30",
+          "wikidataTypes": [
+            "Q2221906/geographic location",
+            "Q15239622/disputed territory",
+            "Q6256/country",
+            "Q183366/territory",
+            "Q1520223/constitutional republic",
+            "Q10711424/state with limited recognition",
+            "Q43702/federation",
+            "Q7275/state",
+            "Q96088545/former geographical object",
+            "Q1048835/political territorial entity",
+            "Q618123/geographical feature",
+            "Q7270/republic",
+            "Q17334923/physical location",
+            "Q82794/geographic region",
+            "Q3624078/sovereign state",
+            "Q1063239/polity",
+            "Q1639378/social system",
+            "Q6266/nation",
+            "Q1489259/superpower",
+            "Q52551684/historical geographic location",
+            "Q512187/federal republic",
+            "Q99541706/historical unrecognized state",
+            "Q15893266/former entity",
+            "Q15642541/human-geographic territorial entity",
+            "Q1896989/subject of international law",
+            "Q58415929/spatio-temporal entity",
+            "Q26713767/region of space",
+            "Q7174/democracy",
+            "Q19832712/historical administrative division",
+            "Q28108/political system",
+            "Q155076/juridical person",
+            "Q19953632/former administrative territorial entity",
+            "Q5589178/regime",
+            "Q183039/form of state",
+            "Q23956024/spacetime region",
+            "Q4835091/territory",
+            "Q96196009/former or current state",
+            "Q22676603/federal system",
+            "Q1140229/political union",
+            "Q124711484/spatial region",
+            "Q1620908/historical region",
+            "Q3024240/historical country",
+            "Q56061/administrative territorial entity",
+            "Q123349660/geolocatable entity",
+            "Q27096213/geographic entity",
+            "Q5255892/Democratic Republic",
+            "Q25404640/spatial object"
+          ]
+        }
+      ]
+    },
+    "time": 0.05592,
+    "ok": true
+  }
+}

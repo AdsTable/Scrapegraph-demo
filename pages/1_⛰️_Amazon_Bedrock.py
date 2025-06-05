@@ -115,17 +115,18 @@ if 'client' not in st.session_state:
 
 config = {
     "llm": {
-        "client": st.session_state.client,
-        "model": f"bedrock/{llm}",
-        "model_kwargs": {
-            "temperature": temperature,
-		},
+        "provider": "amazon_bedrock",
+        "model": "claude-instant",  # or "anthropic.claude-v1", etc.
+        "region": "us-east-1",
+        "aws_access_key_id": "your_key",
+        "aws_secret_access_key": "your_secret"
     },
     "embeddings": {
         "client": st.session_state.client,
         "model": f"bedrock/{embedder}"
-    },
+    }
 }
+
 
 # 2. Create graph instance
 graph = SmartScraperGraph(
